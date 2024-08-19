@@ -77,6 +77,21 @@
       ],
       "onReceive": null,
       "type": "standard"
+    },
+    {
+      "id": "b1ccaceb4e",
+      "name": "node-148e-copy",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-CMKWTK"
+      ],
+      "onReceive": null,
+      "type": "standard"
     }
   ]
 }
