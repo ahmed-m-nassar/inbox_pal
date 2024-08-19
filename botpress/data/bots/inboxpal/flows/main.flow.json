@@ -39,21 +39,6 @@
       "next": [
         {
           "condition": "true",
-          "node": "node-aef8-copy-copy"
-        }
-      ],
-      "onEnter": [
-        "say #!builtin_text-_pSLbm"
-      ],
-      "onReceive": null,
-      "type": "standard"
-    },
-    {
-      "id": "3ad2590694",
-      "name": "node-aef8-copy-copy",
-      "next": [
-        {
-          "condition": "true",
           "node": ""
         }
       ],
