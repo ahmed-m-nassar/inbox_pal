@@ -2,7 +2,15 @@
   "locked": false,
   "disabled": false,
   "private": false,
-  "details": {},
+  "details": {
+    "website": "",
+    "phoneNumber": "",
+    "emailAddress": "",
+    "termsConditions": "",
+    "privacyPolicy": "",
+    "avatarUrl": "",
+    "coverPictureUrl": ""
+  },
   "$schema": "../../bot.config.schema.json",
   "description": "",
   "active": true,
@@ -38,12 +46,12 @@
     "en"
   ],
   "id": "inboxpal",
-  "name": "inboxPal",
+  "name": "inboxPal (inboxpal)",
   "pipeline_status": {
     "current_stage": {
       "id": "prod",
-      "promoted_on": "2024-08-19T08:20:18.496Z",
-      "promoted_by": "admin"
+      "promoted_on": "2024-08-19T09:21:23.904Z",
+      "promoted_by": "system"
     }
   }
 }
