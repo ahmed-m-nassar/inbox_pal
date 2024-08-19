@@ -24,11 +24,26 @@
       "next": [
         {
           "condition": "true",
-          "node": ""
+          "node": "node-aef8-copy"
         }
       ],
       "onEnter": [
         "say #!builtin_text-mxjSKP"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "d6d83c8609",
+      "name": "node-aef8-copy",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-_pSLbm"
       ],
       "onReceive": null,
       "type": "standard"
