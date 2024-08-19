@@ -1,3 +1,4 @@
 # languages files
 /botpress/language/*.model
 /botpress/language/*.tmp
+/botpress/language/*.bin
